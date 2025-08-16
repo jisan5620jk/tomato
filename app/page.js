@@ -16,7 +16,7 @@ export default function Home() {
           />
         </div>
         <div className=" text-center mt-[52px]">
-          <h1 className="text-[56px] font-normal font-open-sans">tomato.com</h1>
+          <h1 className="text-[52px] sm:text-[56px] font-normal font-open-sans">tomato.com</h1>
           <h2 className="text-3xl font-light font-open-sans -mt-2 mb-11">
             is a totally awesome idea still being worked on.
           </h2>
