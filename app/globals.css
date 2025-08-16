@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --font-open-sans: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-family: var(--font-open-sans), "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+
+input:focus::-webkit-input-placeholder {
+  transition: opacity 0.5s ease;
+  opacity: 0;
+}
