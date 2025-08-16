@@ -4,8 +4,8 @@ import { FaXTwitter } from "react-icons/fa6";
 
 export default function Home() {
   return (
-    <div className="">
-      <main className="w-full max-w-[960px] mx-auto flex flex-col justify-center">
+    <div className="w-full max-w-[960px] mx-auto">
+      <main className="flex flex-col justify-center">
         <div className="my-[18px]">
           <Image
             src="/tomato.png"
