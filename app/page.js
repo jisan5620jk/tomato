@@ -27,7 +27,7 @@ export default function Home() {
 
         <form
           action="#"
-          className="mt-[82px] mb-[30px] mx-auto relative inline-block max-w-[460px] w-full"
+          className="mt-[82px] mb-[30px] mx-auto relative inline-block max-w-[460px] w-full overflow-hidden"
           method="get"
         >
           <input
